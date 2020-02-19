@@ -1,0 +1,60 @@
+body{
+    margin:0;
+  font-family:arial;
+    background:#dbdbdb;
+  }
+.navbar-brand {
+    color: #28a84c !important ;
+    font-size: 22px;
+}
+.hidden {
+    color: #353a40;
+}
+  .card{
+  background:white;
+    width:88%;
+    border:1px solid #dbdbdb;
+   margin:auto;
+    margin-top: 50px;
+    border-radius:10px;
+  }
+  .header{
+    background-color: #353a40;
+    color:white;
+    padding:10px 10px;
+  }
+  
+  .product{
+   display:flex;
+    justify-content:space-between;
+    align-items:center;
+    padding:20px 50px;
+    border-top:1px solid  #dbdbdb;
+  }
+  .quant{
+    display:flex;
+    justify-content:space-between;
+    width:90px;
+  }
+  .pu{display:none;}
+  .op{
+    display:flex;
+    justify-content:space-between;
+    width:70px;
+  }
+
+  .name{
+    font-size:24px;
+    margin-bottom:10px;
+    color:black;
+  }
+  .color{
+    font-size:24px;
+    color:black;
+  }
+ 
+  .priceprod{
+    font-size:18px;
+    
+  }
+  
